@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Olof Magnusson 👋
 
-<!--
-**olofmagn/olofmagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Focused on secure software development, vulnerability analysis, and threat intelligence  
+💡 Passionate about blending cybersecurity & software engineering to build resilient and robust systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I work on:
+- 🐛 Vulnerability research & exploitation techniques  
+- 🛠️ Building security tools & automation scripts  
+- 🕵️‍♂️ Threat intelligence & analysis
+
+---
+
+📂 Feel free to explore my projects and connect with me!  
+📧 Email: olof [dot] magnusson94 [dot] hotmail [dot] com
+
+
+![snake animation](https://github.com/<olofmagn>/<olofmagn>/blob/output/github-contribution-grid-snake2.svg)
