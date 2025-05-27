@@ -15,4 +15,4 @@
 📂 Feel free to explore my projects and connect with me!  
 📧 Email: olof [dot] magnusson94 [dot] hotmail [dot] com
 
-![snake gif](https://github.com/olofmagn/olofmagn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/olofmagn/olofmagn/blob/output/github-contribution-grid-snake-dark.svg)
