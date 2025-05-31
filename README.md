@@ -1,12 +1,11 @@
-# Hi, I’m Olof Magnusson (olofmagn) 👋
+# Hi, I’m Olof Magnusson (olofmagn) 
 
-## 👨‍💻 About me:
 - 🔍 Focused on secure software development, vulnerability analysis, and threat intelligence
 - 💡 Passionate about blending cybersecurity & software engineering to build resilient and robust systems
 
 ---
 
-## 🚀 What I work on:
+## What I work on:
 - 🐛 Vulnerability research & exploitation techniques  
 - 🛠️ Building security tools & automation scripts
 - 🕵️‍♂️ Threat intelligence & analysis
